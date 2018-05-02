@@ -1,0 +1,11 @@
+C:\Users\asus-\AppData\Local\Temporary Projects\NeuralNetwork\bin\Debug\NeuralNetwork.exe.config
+C:\Users\asus-\AppData\Local\Temporary Projects\NeuralNetwork\bin\Debug\NeuralNetwork.exe
+C:\Users\asus-\AppData\Local\Temporary Projects\NeuralNetwork\bin\Debug\NeuralNetwork.pdb
+C:\Users\asus-\AppData\Local\Temporary Projects\NeuralNetwork\obj\Debug\NeuralNetwork.exe
+C:\Users\asus-\AppData\Local\Temporary Projects\NeuralNetwork\obj\Debug\NeuralNetwork.pdb
+C:\Users\asus-\Desktop\Neural-Network\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.exe.config
+C:\Users\asus-\Desktop\Neural-Network\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.exe
+C:\Users\asus-\Desktop\Neural-Network\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.pdb
+C:\Users\asus-\Desktop\Neural-Network\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.exe
+C:\Users\asus-\Desktop\Neural-Network\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.pdb
+C:\Users\asus-\Desktop\Neural-Network\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.csprojResolveAssemblyReference.cache
